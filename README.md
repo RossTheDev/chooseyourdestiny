@@ -9,3 +9,7 @@ Started as a meme, but now im gonna make it more!
 
 # Goals 
 UI, images for options, and sounds/music.
+
+# Desktop Version
+
+https://ninjastaplerdev.itch.io/choose-your-destiny-
